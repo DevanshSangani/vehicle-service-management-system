@@ -8,6 +8,7 @@ public class VehicleServiceManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VehicleServiceManagementApplication.class, args);
+		System.out.println("Welcome to github");
 	}
 
 }
